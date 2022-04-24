@@ -17,7 +17,9 @@ Requirements
 UI Requirements
 1. I should be able to see a list of my customers
 2. I should be able to create a customer
-3. I should be ablke to see customer detail accompanied by a list of their warranties
+3. I should be able to see customer detail accompanied by a list of their warranties
+4. I should be able to add a warranty to a customer
+5. I should be able to update a warranty for a customer
 
 ## Source Code Layout
 
